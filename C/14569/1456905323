@@ -1,0 +1,4 @@
+CFS V1
+URL http://209.232.103.136/agis/rest/services/callforservice_2015_FC/MapServer/0/query?f=json&where=I_STATUSID%3D%27C%27&returnGeometry=true&spatialRel=esriSpatialRelIntersects&outFields=*&callback=dojo.io.script.jsonp_dojoIoScript2._jsonpCallback
+PROCESSED false
+dojo.io.script.jsonp_dojoIoScript2._jsonpCallback({"error":{"code":400,"message":"Failed to execute query.","details":[]}});
